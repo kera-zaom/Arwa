@@ -2,7 +2,7 @@
 // LOVE WEBSITE SCRIPT
 // ==========================
 
-const password = "Arwa";
+const password = "A";
 
 const music = document.getElementById("bgMusic");
 
@@ -24,8 +24,8 @@ typeWriter();
 
 }else{
 
-alert("❌ كلمة السر غلط ي رورو");
-
+alert("كلمة السر غلط ي عمري");
+ 
 }
 
 }
